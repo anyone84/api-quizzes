@@ -1,0 +1,45 @@
+ <nav class="navbar navbar-inverse navbar-fixed-top">
+   <div class="container-fluid">
+     <div class="navbar-header">
+       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+         <span class="sr-only">Toggle navigation</span>
+         <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+       </button>
+       <a class="navbar-brand" href="#">Quizzes</a>
+     </div>
+     <div id="navbar" class="navbar-collapse collapse">
+       <form class="navbar-form navbar-right">
+         <input type="button" value="validate" class="btn btn-success" ng-click="checkQuiz()" ng-hide="isIndex"/>   
+       </form>
+     </div>
+   </div>
+ </nav>
+<div class="container-fluid app-container">
+   <div class="row">
+      <div class="well well-sm">
+         <h1>{{quiz.name}}</h1>
+         <p>{{quiz.description}}</p>
+         <p><span ng-show="numberOfAnswers">Answered: {{numberOfAnswers}}</span><span ng-show="numberOfCorrectAnswers">/ Correct: {{numberOfCorrectAnswers}}</span></p>
+      </div>
+      <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel panel-default" ng-repeat="question in quiz.questions ">
+          <div class="panel-heading" role="tab" id="question{{question.order}}">
+            <h4 class="panel-title">
+                {{question.order}}. {{question.question_text}}
+            </h4>
+          </div>
+          <div id="collapse{{question.order}}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="question{{question.order}}">
+            <div class="panel-body">
+               <ul class="list-group questions" id="question{{question.order}}">
+                  <li id="ans{{answer.order}}q{{question.order}}" class="list-group-item qs{{question.order}}" ng-repeat="answer in question.answers" ng-click="selectAnswer(question.order, answer.order)">
+                     {{answer.order}}) {{answer.answer_text}}</label>
+                  </li>
+               </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+   </div>
+</div>

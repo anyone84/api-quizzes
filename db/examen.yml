@@ -1,0 +1,773 @@
+---
+solved:
+  1: 4
+  2: 3
+  3: 1
+  4: 2
+  5: 1
+  6: 3
+  7: 2
+  8: 1
+  9: 3
+  10: 1
+  11: 1
+  12: 4
+  13: 3
+  14: 3
+  15: 3
+  16: 2
+  17: 4
+  18: 1
+  19: 3
+  20: 3
+  21: 1
+  22: 2
+  23: 3
+  24: 2
+  25: 3
+  26: 2
+  27: 1
+  28: 3
+  29: 4
+  30: 1
+  31: 4
+  32: 3
+  33: 2
+  34: 4
+  35: 4
+  36: 1
+  37: 4
+  38: 1
+  39: 3
+  40: 2
+  41: 1
+  42: 3
+  43: 1
+  44: 1
+  45: 2
+  46: 4
+  47: 1
+  48: 3
+  49: 1
+  50: 3
+  51: 4
+  52: 2
+  53: 4
+  54: 4
+  55: 2
+  56: 3
+  57: 2
+  58: 2
+  59: 4
+  60: 2
+  61: 2
+  62: 4
+  63: 3
+  64: 2
+  65: 1
+  66: 2
+  67: 2
+  68: 4
+  69: 2
+  70: 2
+  71: 4
+  72: 3
+  73: 2
+  74: 2
+  75: 3
+  76: 3
+  77: 3
+  78: 1
+  79: 4
+  80: 1
+  81: 1
+  82: 3
+  83: 2
+  84: 3
+  85: 3
+  86: 4
+  87: 2
+  88: 3
+  89: 2
+  90: 4
+  91: 2
+  92: 3
+  93: 3
+  94: 2
+  95: 1
+  96: 2
+  97: 1
+  98: 3
+  99: 4
+  100: 1
+  101: 4
+  102: 1
+  103: 4
+  104: 3
+  105: 2
+  106: 2
+  107: 3
+  108: 2
+  109: 3
+  110: 2
+quiz:
+  - question: "Según el Real Decreto 1093/2010, de 3 de septiembre, por el que se aprueba el conjunto mínimo de datos de los informes clínicos en el Sistema Nacional de Salud, indique cuál de los siguientes datos no es imprescindible que formen parte del Informe de Cuidados de Enfermería:"
+    answers:
+      - "El motivo de Alta / Derivación Enfermera."
+      - "El literal NANDA de los diagnósticos enfermeros resueltos."
+      - "El literal NANDA de los diagnósticos enfermeros activos."
+      - "El código NIC de las Intervenciones de Enfermería."
+  - question: "La incapacidad de una persona normalmente continente de llegar al baño a tiempo para evitar la pérdida no intencionada de orina, se denomina según NANDA Internacional:"
+    answers:
+      - "Incontinencia urinaria por rebosamiento."
+      - "Incontinencia urinaria refleja."
+      - "Incontinencia urinaria funcional."
+      - "Incontinencia urinaria de esfuerzo."
+  - question: "El informe Bellmont realizado en 1978 al objeto de identificar los principios éticos que deben guiar la investigación con seres humanos, define los principios de:"
+    answers:
+      - "Autonomía, beneficencia y justicia."
+      - "Autonomía, beneficencia, justicia y no maleficencia."
+      - "Beneficencia, justicia, no maleficencia y confidencialidad."
+      - "Autonomía, beneficencia, no maleficencia y confidencialidad."
+  - question: "Kozier define una de las etapas del Proceso de Enfermería como “un proceso continuado que la enfermera realiza en cada una de las etapas del Proceso de Atención de Enfermería”. ¿A qué etapa del Proceso de Enfermería se refiere?"
+    answers:
+      - "Ejecución."
+      - "Valoración."
+      - "Diagnóstico."
+      - "Planificación."
+  - question: "El indicador de salud ideal debe de reunir Según la Organización Mundial de la Salud (OMS), las siguientes características:"
+    answers:
+      - "Validez, fiabilidad, sensibilidad y especificidad."
+      - "Sensibilidad, validez, eficacia y cualidad."
+      - "Especificidad, sensibilidad, eficacia y eficiencia."
+      - "Fiabilidad, eficacia, validez y especificidad."
+  - question: "En el Modelo EFQM de Excelencia, de los siguientes subcriterios indique cuál no corresponde al criterio “Alianzas y Recursos”:"
+    answers:
+      - "Gestión de recursos económicos y financieros."
+      - "Gestión de la tecnología."
+      - "Gestión y mejora de las relaciones con los clientes."
+      - "Gestión de la información y del conocimiento."
+  - question: "Cuando la enfermera de Atención Primaria realiza una intervención oportuna para impedir o minimizar la pérdida de función e independencia de un paciente y se centra en preservar su salud, está realizando:"
+    answers:
+      - "Prevención primaria."
+      - "Prevención secundaria."
+      - "Prevención terciaria."
+      - "Prevención básica."
+  - question: "Según el modelo de Relaciones Interpersonales de Hildegard Peplau, la relación entre el profesional de enfermería y el paciente evoluciona en cuatro fases siguiendo el siguiente orden:"
+    answers:
+      - "1o orientación, 2o identificación, 3o explotación y 4o resolución."
+      - "1o actuación, 2o orientación, 3o enseñanza y 4o resolución."
+      - "1o orientación, 2o apoyo, 3o actuación y 4o enseñanza."
+      - "1o identificación, 2o autoconcepto, 3o dominio de su rol y 4o resolución."
+  - question: "La irrigación para la extracción de un cuerpo extraño en el conducto auditivo externo (CAE), no está contraindicada si:"
+    answers:
+      - "El paciente tiene una lesión timpánica."
+      - "El paciente tiene una infección actual o reciente del CAE."
+      - "El cuerpo extraño no ocluye totalmente el CAE."
+      - "El cuerpo extraño es una semilla o fruto seco."
+  - question: "La clasificación de los diagnósticos en la Taxonomía II de NANDA Internacional está estructurada a través de:"
+    answers:
+      - "Dominios, clases y diagnósticos."
+      - "Campos, clases y diagnósticos."
+      - "Diagnósticos, dominios y campos."
+      - "Dominios, campos y clases."
+  - question: "En los gráficos de cajas (box-plot, box and whisker plot), ¿qué representa la línea horizontal que está dentro de la caja?"
+    answers:
+      - "La mediana"
+      - "La moda"
+      - "El tercer cuartil"
+      - "El primer cuartil"
+  - question: "Entre las complicaciones metabólicas de la nutrición enteral, no se encuentra:"
+    answers:
+      - "Hiperglucemia."
+      - "Deshidratación."
+      - "Hipoglucemia."
+      - "Diarrea."
+  - question: "De las siguientes técnicas estadísticas multivariantes, indique cuál no pertenece a la categoría de técnicas inferenciales:"
+    answers:
+      - "Análisis de la varianza."
+      - "Regresión lineal múltiple."
+      - "Análisis de clusters."
+      - "Regresión de Cox."
+  - question: "Para una dieta equilibrada en niños de 4-6 años de edad, los requerimientos de energía son:"
+    answers:
+      - "1000 Kcal/día."
+      - "1300-1500 Kcal/día."
+      - "1800 Kcal/día."
+      - "2000 Kcal/día."
+  - question: "De los siguientes estudios de investigación, indique cuáles pertenecen a la categoría de estudios analíticos observacionales:"
+    answers:
+      - "Estudios de asociación cruzada."
+      - "Estudios de concordancia."
+      - "Estudios de casos y controles."
+      - "Estudios de prevalencia."
+  - question: "Para evitar la dislocación de cadera después de una operación de sustitución y hasta que la prótesis se estabilice, ¿cuál de las siguientes recomendaciones no es correcta?"
+    answers:
+      - "Se deben mantener las rodillas separadas en todo momento."
+      - "Para ponerse los calcetines, se debe de flexionar la cadera más de 90°."
+      - "Se debe de usar una silla y un asiento inodoro elevados."
+      - "No se deben de cruzar las piernas al sentarse."
+  - question: "De acuerdo a la Ley 6/2009, de 16 de noviembre, de Libertad de Elección en la Sanidad de la Comunidad de Madrid:"
+    answers:
+      - "La libertad de elección de médico de familia, pediatra o enfermero en atención primaria, tendrá que ser debidamente justificada."
+      - "Los pacientes a quienes se les prescriba atención especializada, podrán elegir libremente el médico sólo en su hospital de referencia."
+      - "Será posible la elección simultánea de varios especialistas para el mismo proceso clínico."
+      - "La libertad de elección del médico de familia, pediatra o enfermero de atención primaria se ejercerá en cualquier momento."
+  - question: "Señale cuál de las siguientes bases de datos está especializada en revisiones sistemáticas para la búsqueda de evidencia sobre prevención, tratamiento y control de los problemas sanitarios:"
+    answers:
+      - "Biblioteca Cochrane Plus."
+      - "ENFISPO."
+      - "IME."
+      - "CUIDATGE."
+  - question: "Si en el estudio de la estructura de una población el índice Fritz es 85, nos indica que la población es:"
+    answers:
+      - "Joven."
+      - "Vieja."
+      - "Madura."
+      - "Adolescente."
+  - question: "El resultado de restar al número de nacimientos el número de defunciones en una población, se conoce como:"
+    answers:
+      - "Crecimiento anual."
+      - "Densidad de población."
+      - "Crecimiento vegetativo."
+      - "Razón de juventud."
+  - question: "¿Qué variables interactúan según Lalonde en el nivel de salud de las personas?"
+    answers:
+      - "La biología humana, el medio ambiente, los estilos de vida y  el sistema de asistencia sanitaria."
+      - "La renta, los estilos de vida, el sistema de asistencia sanitaria y la demanda de salud de la población."
+      - "La biología, los estilos de vida y la percepción de necesidad de salud."
+      - "La adaptación biológica, mental y social."
+  - question: "En un estudio epidemiológico, el número de hijos/as que tiene una pareja se considera una variable:"
+    answers:
+      - "No es una variable."
+      - "Variable cuantitativa discreta."
+      - "Variable cualitativa."
+      - "Variable cuantitativa continua."
+  - question: "¿Cuál es la clasificación correcta de menor a mayor resistencia de los microorganismos a los procedimientos de eliminación?"
+    answers:
+      - "1o Virus lipidíeos, 2o hongos, 3o priones y 4o micobacterias."
+      - "1o Hongos, 2o priones, 3o virus lipídicos y 4o micobacterias."
+      - "1o Virus lipídicos, 2o hongos, 3o micobacterias y 4o priones."
+      - "1o Priones, 2o micobacterias, 3o hongos y 4o virus lipídicos."
+  - question: "Al instaurar una solución de insulina de forma continua por vía intravenosa en pacientes con cetoacidosis metabólica es imprescindible:"
+    answers:
+      - "El purgado del sistema de perfusión con suero fisiológico."
+      - "El purgado del sistema con la solución de insulina a perfundir."
+      - "La interrupción de la perfusión cada hora con descanso de quince minutos."
+      - "Que para la vía intravenosa se utilice exclusivamente la insulina Glargina."
+  - question: "Indique en donde se define por primera vez la promoción de la salud:"
+    answers:
+      - "En la Conferencia de Alma-Ata."
+      - "En la Primera Asamblea Mundial la Salud."
+      - "En la Carta de Otawa."
+      - "En la Conferencia de Salud Pública de México."
+  - question: "La intervención de la taxonomía NIC “mejora de la tos”, ¿a qué campo pertenece?"
+    answers:
+      - "Fisiológico básico."
+      - "Fisiológico complejo."
+      - "Control respiratorio."
+      - "Fomento de la comodidad."
+  - question: "El modelo de promoción de la salud descrito por Pender Murdaugh y Parsons en 2006:"
+    answers:
+      - "Se basa en la teoría social del aprendizaje."
+      - "Se basa en etapas de cambo a fin de promover conductas saludables."
+      - "Describe cuatro variables con correlación positiva en la calidad de vida de una persona."
+      - "Identifica la biología humana como un determinante de salud."
+  - question: "Cuando utilizamos el método de investigación de la teoría fundamentada y descomponemos y conceptualizamos los datos, estamos realizando una:"
+    answers:
+      - "Codificación selectiva."
+      - "Codificación axial."
+      - "Codificación abierta."
+      - "Codificación multivariable."
+  - question: "En relación a las vacunas frente al virus del papiloma humano registradas en España, indique la respuesta falsa:"
+    answers:
+      - "Son vacunas inactivadas."
+      - "Se obtienen por técnicas de recombinación genética."
+      - "No tienen efecto terapéutico sobre la infección ya establecida."
+      - "La suspensión inyectable es transparente."
+  - question: "En relación con los cambios en el proceso de envejecimiento, la enfermera debe de informar al anciano sobre las estrategias para promocionar la salud. Indique cuál de las siguientes no sería correcta:"
+    answers:
+      - "Darse un baño caliente en lugar de una ducha."
+      - "Revisarse la presión arterial con regularidad."
+      - "Ingerir una dieta rica en calcio, en fibras y baja en grasas."
+      - "Limitar las siestas."
+  - question: "El cociente entre el número de casos nuevos de una enfermedad ocurridos durante un periodo de tiempo y la suma de todos los tiempos individuales de observación, se denomina:"
+    answers:
+      - "Prevalencia."
+      - "Prevalencia acumulada."
+      - "Incidencia acumulada."
+      - "Densidad de incidencia."
+  - question: "Indique de qué modelo de aprendizaje en educación y promoción de la salud, son característicos los factores predisponentes, facilitadores y reforzantes:"
+    answers:
+      - "Modelo de Gagne."
+      - "Modelo de etapas del cambio."
+      - "Modelo PRECEDE-PROCEDE."
+      - "Modelo de etapas."
+  - question: "De los siguientes trastornos, ¿cuál no es considerado un trastorno de ansiedad?"
+    answers:
+      - "Trastorno Obsesivo- compulsivo."
+      - "Trastorno de Personalidad Límite."
+      - "Fobia social."
+      - "Trastorno de stress postraumático."
+  - question: "Indicar cuál de los siguientes síntomas es una urgencia hospitalaria para la mujer gestante:"
+    answers:
+      - "Leucorrea."
+      - "Aparición de varices."
+      - "Polaquiuria."
+      - "Cefaleas intensas."
+  - question: "De los siguientes drenajes, indique cuál no pertenece a la clasificación de “drenaje activo”:"
+    answers:
+      - "Jackson-Pratt"
+      - "Pleur-evac."
+      - "Abramson (triple luz)."
+      - "Penrose"
+  - question: "Hildegarde Peplau define seis funciones distintas que la enfermera lleva a cabo a lo largo de la relación terapéutica coincidiendo con las distintas etapas de la relación, ¿en cuál de las siguientes fases se dará la función desconocida?"
+    answers:
+      - "Fase de orientación."
+      - "Fase de identificación."
+      - "Fase de resolución."
+      - "Ninguna de las anteriores."
+  - question: "La regresión, es un mecanismo de defensa que puede darse en pacientes hospitalizados. Indique que respuesta no se corresponde con este mecanismo de defensa:"
+    answers:
+      - "Los pacientes mantienen una actitud de escasa colaboración."
+      - "Los pacientes presentan irritabilidad."
+      - "Los pacientes presentan baja tolerancia a las esperas."
+      - "Sólo se manifiesta en pacientes en edad adulta."
+  - question: "La curva Roe es un gráfico en el que:"
+    answers:
+      - "En el eje de coordenadas se sitúa la proporción de verdaderos positivos."
+      - "En el eje de coordenadas se sitúa la proporción de falsos positivos."
+      - "Cada punto de la curva representa el valor de Ods ratio."
+      - "El área bajo la curva depende de la prevalencia de la enfermedad."
+  - question: "Piaget considera que el desarrollo cognitivo se produce normalmente siguiendo distintas etapas, ¿cuál de las siguientes etapas no corresponde a las descritas por este autor?"
+    answers:
+      - "Sensomotora."
+      - "Pensamiento preoperacional."
+      - "Locomotriz y genital."
+      - "Operaciones concretas."
+  - question: "Cuando el profesional de enfermería reconoce las preocupaciones sexuales de un paciente y comunica la actitud de que estas preocupaciones y necesidades son importantes para la salud y la recuperación, ¿de qué componente del modelo PILPETI es representativa esta comunicación?"
+    answers:
+      - "Información limitada."
+      - "Otorgamiento de permiso."
+      - "Propuestas específicas."
+      - "Tratamiento intensivo."
+  - question: "La relación de indicadores clave del Sistema Nacional de Salud (INCLASNS), en su versión 2, define 247 indicadores que intentan ofrecer una imagen del estado de salud de la población Española. De los siguientes INCLASNS indique cuál no pertenece al dominio “morbilidad”:"
+    answers:
+      - "Prevalencia de consumo de tabaco en población adulta."
+      - "Prevalencia declarada de trastornos mentales en población adulta."
+      - "Tasa ajustada de hospitalización por infarto agudo de miocardio por 10.000 habitantes."
+      - "Prevalencia declarada de diabetes mellitus en población adulta."
+  - question: "De las siguientes opciones señale la respuesta que corresponde a una contraindicación absoluta para el uso del diafragma como método anticonceptivo:"
+    answers:
+      - "Mujeres no entrenadas en su uso."
+      - "Malformación vaginal congénita."
+      - "Músculos del introito vaginal laxos."
+      - "Infecciones repetidas del tracto urinario."
+  - question: "En relación a la educación sanitaria, cuando la complejidad del mensaje que queremos trasmitir es media, ¿cuál de los siguientes métodos indirectos usaría?"
+    answers:
+      - "Folletos"
+      - "Vídeo"
+      - "Carteles en el interior de los centros sanitarios."
+      - "Ninguno de los anteriores"
+  - question: "Según el nivel de cobertura alcanzado por el desinfectante, se define como “Desinfección de nivel alto” al:"
+    answers:
+      - "Proceso de desinfección que incluye esporas bacterianas."
+      - "Proceso de desinfección que incluye micobacterias pero no esporas."
+      - "Proceso que no incluye ni micobacterias ni esporas."
+      - "Proceso mediante el cual se destruyen todos los microorganismos viables presentes en un objeto o superficie, incluidas las esporas bacterianas."
+  - question: "Indique la respuesta incorrecta en relación a la taxonomía II de NANDA Internacional:"
+    answers:
+      - "Se basa en los patrones funcionales de M. Gordon, pero pasan a llamarse dominios."
+      - "Consta de 13 ejes."
+      - "Tiene una estructura codificada que sigue las recomendaciones de la National Library of Medicine."
+      - "La clase supone el nivel más concreto de la clasificación."
+  - question: "Indique la respuesta correcta en relación al drenaje torácico pleur-evac:"
+    answers:
+      - "No precisa de cámara de sello hidráulico."
+      - "Consta de dos cámaras, una de drenaje y otra de sello hidráulico."
+      - "Consta de dos cámaras, una de drenaje y otra de aspiración."
+      - "Permite graduar la presión negativa ejercida sobre el espacio pleural."
+  - question: "¿Qué fármaco tiene como acción antagonizar la acción de la acetilcolina en los receptores muscarínicos y entre sus efectos secundarios se pueden encontrar sequedad de boca, visión borrosa, taquicardia y palpitaciones?"
+    answers:
+      - "Atropina."
+      - "Adrenalina."
+      - "Digoxina."
+      - "Atenolol."
+  - question: "Con respecto al impacto en la salud de las mujeres víctimas de violencia, indique la respuesta correcta:"
+    answers:
+      - "Existe una disminución de los embarazos no deseados y de alto riesgo."
+      - "Son menos vulnerables a los problemas de salud que las mujeres no maltratadas."
+      - "Pueden presentar cuadros emocionales y conductuales que se pueden confundir con trastornos de personalidad."
+      - "El riesgo de suicidio es similar al de las mujeres no maltratadas."
+  - question: "En la Estrategia de Atención a Pacientes con Enfermedades Crónicas en la Comunidad de Madrid, el rol de la “Enfermera Gestora de Casos” en Atención Primaria aplica a:"
+    answers:
+      - "Pacientes crónicos incluidos en el nivel alto de riesgo."
+      - "Pacientes crónicos incluidos en el nivel medio de riesgo."
+      - "Pacientes crónicos incluidos en el nivel bajo de riesgo."
+      - "Todos los pacientes crónicos."
+  - question: "En una búsqueda bibliográfica, ¿qué operador booleano se puede utilizar para restringir los resultados de dicha búsqueda?"
+    answers:
+      - "Operadores “AND” y “OR”."
+      - "Operadores “NOT” y “OR”."
+      - "Operadores “AND” y “NOT”."
+      - "Solo el operador “OR”."
+  - question: "De los siguientes signos, indique cuál no es propio de la cicatrización de una herida por primera intención:"
+    answers:
+      - "Borde de cicatrización presente el día 7-9 del post-operatorio."
+      - "Drenaje ausente 48 horas después del cierre quirúrgico."
+      - "Bordes de la herida bien aproximados."
+      - "Respuesta inflamatoria ausente o disminuida hasta el cuarto día del post­operatorio."
+  - question: "De todas las fases por las que pasa una mujer víctima de violencia de pareja ¿en cuál de ellas puede optar por ocultar a otras personas lo que le está ocurriendo?:"
+    answers:
+      - "En la fase precontemplativa."
+      - "En la fase contemplativa."
+      - "En la fase de preparación."
+      - "En la fase de mantenimiento."
+  - question: "Tras el nacimiento, durante el examen físico del recién nacido, si detectamos una incurvación de los dedos en manos y pies, diremos que tiene una:"
+    answers:
+      - "Sindactilia."
+      - "Polidactilia."
+      - "Aracnodactilia."
+      - "Clinodactilia."
+  - question: "El servocontrol es la medición de la temperatura a través de un sensor eléctrico que puede colocarse en distintas zonas excepto:"
+    answers:
+      - "En la región lateral del abdomen."
+      - "En el punto medio entre apéndice xifoide y ombligo."
+      - "En la espalda, a la misma altura que en la opción b, pero al lado de la columna vertebral."
+      - "En una zona muy vascularizada y donde existe grasa parda."
+  - question: "De las siguientes afirmaciones sobre el normal desarrollo motor y social de los lactantes, indique cuál es falsa:"
+    answers:
+      - "A los cuatro meses se sienta con ayuda y deja la cabeza quieta cuando está sentado."
+      - "A los seis meses obedece instrucciones verbales sencillas."
+      - "A los nueve meses se arrastra y gatea."
+      - "A los doce meses muestra emociones como enfado y cariño."
+  - question: "Indicar la respuesta correcta en relación a los cambios hormonales se producen durante el climaterio:"
+    answers:
+      - "En el climaterio descienden los niveles de estrógenos, progesterona y gonadotropina."
+      - "En el climaterio aumentan los niveles de estrógenos, progesterona y gonadotropina."
+      - "En el climaterio descienden los niveles de estrógenos y progesterona y aumenta el nivel de gonadotropina."
+      - "En el climaterio descienden los niveles de estrógenos y gonadotropina y aumenta el nivel de progesterona."
+  - question: "El nivel de desarrollo sexual desde el período prepuberal al estado adulto, fue descrito en el año 1962 por:"
+    answers:
+      - "Jacobson."
+      - "Tanner."
+      - "Clements."
+      - "Brazelton."
+  - question: "Las células de Leydig, no producen:"
+    answers:
+      - "Testosterona."
+      - "Progesterona."
+      - "5-androstenediol."
+      - "Estradiol."
+  - question: "Indique cuál de las siguientes repuestas se corresponde con los cambios del sistema hepatobiliar relacionados con la edad:"
+    answers:
+      - "Se produce un aumento del metabolismo de los medicamentos."
+      - "Se produce una disminución de la frecuencia de los cálculos biliares debido a la disminución de secreción de colesterol en la bilis."
+      - "Se produce una disminución de la contracción de la vesícula biliar después de una comida."
+      - "Se produce una reducción del flujo sanguíneo."
+  - question: "¿Con cuantas dosis de vacuna parenteral inactivada de polio se consigue un nivel de protección cercano al 100% y duradero?"
+    answers:
+      - "Con 1 sola dosis."
+      - "Con 4 dosis."
+      - "Con entre 1 y 3 dosis."
+      - "Con más de 5 dosis."
+  - question: "Ante la pérdida de un ser querido, cuando la persona muestra ira contra la institución o los profesionales, ¿en que fase del duelo se encuentra según Engel?"
+    answers:
+      - "Choque e incredulidad."
+      - "Conciencia creciente."
+      - "Restitución."
+      - "Idealización."
+  - question: "Los Servicios Sanitarios, según la Ley 14/1986, de 25 de abril, General de Sanidad, adecuarán su organización y funcionamiento a los principios de:"
+    answers:
+      - "Eficiencia, economía y flexibilidad."
+      - "Eficacia, eficiencia, efectividad y flexibilidad."
+      - "Eficacia, celeridad, economía y transparencia."
+      - "Eficacia, celeridad, economía y flexibilidad."
+  - question: "Durante la fase de transmisión de la nocicepción ¿qué modelo de control del dolor es más eficaz?"
+    answers:
+      - "Distraer la atención."
+      - "Antiinflamatorios no esteroideos."
+      - "Opiáceos."
+      - "Sedantes."
+  - question: "Indique cuál de las siguientes intervenciones de enfermería, no es adecuada en el plan de cuidados de un paciente con insuficiencia arterial periférica de las extremidades:"
+    answers:
+      - "Enseñar formas de evitar el traumatismo en las extremidades."
+      - "Elevar las extremidades por encima del nivel del corazón."
+      - "Alentar la deambulación."
+      - "Desalentar el consumo de productos de tabaco."
+  - question: "El valor predictivo de un test diagnóstico:"
+    answers:
+      - "Depende de la sensibilidad, la especificidad y la prevalencia de la enfermedad."
+      - "Depende sólo de la sensibilidad y la especificidad."
+      - "Se calcula dividiendo la proporción de casos con resultado positivo entre la proporción de personas que no tienen la enfermedad."
+      - "Es la probabilidad de que un sujeto enfermo sea clasificado como tal."
+  - question: "El Cribado Neonatal de enfermedades endocrino-metabólicas que se efectúa actualmente en las Instituciones Sanitarias de la Comunidad de Madrid, se realiza para un número de:"
+    answers:
+      - "5 patologías congénitas."
+      - "19 patologías congénitas."
+      - "10 patologías congénitas."
+      - "8 patologías congénitas."
+  - question: "¿Cuál de los siguientes síntomas no es un efecto secundario del tratamiento con Sales de Litio?:"
+    answers:
+      - "Aumento de peso."
+      - "Acatisia."
+      - "Diarrea."
+      - "Temblores."
+  - question: "Indique la respuesta correcta en relación a la modalidad terapéutica de balón de contrapulsación intraaórtico (BCI) en un paciente con choque cardiogénico:"
+    answers:
+      - "El BCI se desinfla justo antes de la diástole."
+      - "el BCI aumenta la presión dentro de la aorta durante la sístole."
+      - "El BCI aumenta la resistencia que el corazón debe vencer para expulsar la sangre."
+      - "El BCI se insufla durante la diástole."
+  - question: "Para la mejora de la calidad utilizaremos el “Diagrama de Pareto” cuando:"
+    answers:
+      - "Sea necesario identificar y mostrar las causas posibles de un problema."
+      - "Sea necesario comparar causas y efectos."
+      - "Se quiera realizar el estudio de un proceso."
+      - "Sea necesario expandir nuestro pensamiento para incluir todas las posibles dimensiones de un problema."
+  - question: "Indique cuál de los siguientes cambios hidroelectrolíticos no aparece en la fase de urgencia/reanimación de un gran quemado:"
+    answers:
+      - "Acidosis metabólica."
+      - "Exceso de sodio."
+      - "Exceso de potasio."
+      - "Hemoconcentración."
+  - question: "Respecto a la interpretación de los resultados de la prueba cutánea de tuberculina, se considera que la prueba es positiva con una induración > 10mm:"
+    answers:
+      - "En personas infectadas por el VIH."
+      - "En personas con radiografía de tórax compatible con una tuberculosis antigua."
+      - "En contactos frecuentes de tuberculosis pulmonar activa."
+      - "En usuarios de drogas por vía parenteral."
+  - question: "En referencia a la Hepatitis A, no es cierto que:"
+    answers:
+      - "El virus de la Hepatitis A es un virus ARN."
+      - "El virus de la Hepatitis A pertenece a la familia de los Picornaviridae."
+      - "El virus de la Hepatitis A es un virus ADN."
+      - "La Hepatitis A, se puede transmitir a través de agua, leche y alimentos contaminados."
+  - question: "Si utilizamos la Clasificación de Astler-Coller modificada por Gunderson-Sosin (1978) sobre el estadiaje del cáncer colorrectal, decimos que un tumor es de estadio B3 cuando:"
+    answers:
+      - "El tumor invade la muscular sin sobrepasarla y existen ganglios afectados."
+      - "El tumor invade microscópicamente toda la pared intestinal incluyendo serosas o grasa perirrectal y adhiere o invade otros órganos o estructuras adyacentes."
+      - "El tumor invade la muscular sin sobrepasarla y no existen ganglios afectados."
+      - "El tumor está limitado a la mucosa."
+  - question: "Indique cuál de los siguientes antídotos será utilizado en un paciente con intoxicación por Benzodiacepinas:"
+    answers:
+      - "Protamina."
+      - "Flumazenilo."
+      - "Naloxona."
+      - "Glucagón."
+  - question: "Entre las manifestaciones clínicas propias de la carencia de Vitamina B3, no se encuentra:"
+    answers:
+      - "Pelagra."
+      - "Dermatitis."
+      - "Escorbuto."
+      - "Diarrea."
+  - question: "En la Declaración previa del Código Deontológico de la Enfermería Española se define la Deontología como:"
+    answers:
+      - "La Deontología es la disciplina que estudia la moral profesional de la enfermería."
+      - "La Deontología es asimilable al Derecho Sanitario."
+      - "La Deontología es el Conjunto de los deberes de los profesionales de Enfermería que ha de inspirar su conducta."
+      - "La Deontología estudia el comportamiento de la enfermería en España."
+  - question: "¿Cuál es el dispositivo de acceso enteral apropiado para un paciente con riesgo de aspiración?:"
+    answers:
+      - "La sonda nasogástrica."
+      - "La sonda de gastrostomía."
+      - "La sonda nasointestinal."
+      - "La sonda de yeyunostomía."
+  - question: "Para valorar el Síndrome de Abstinencia Neonatal (SAN), de los siguientes test indique cuál es el usado para observar el inicio, progresión y resolución del SAN y evaluar la respuesta clínica a los fármacos usados:"
+    answers:
+      - "Test de Finnegan."
+      - "Test de Kinderman."
+      - "Test de Kramer."
+      - "Test de Silverman."
+  - question: "La hidrólisis de la sacarosa produce:"
+    answers:
+      - "Galactosa y lactosa."
+      - "Galactosa y maltosa."
+      - "Ribosa y celulosa."
+      - "Fructosa y glucosa."
+  - question: "La Lista de verificación de la seguridad de la cirugía elaborada por la Organización Mundial de la Salud, tiene como objetivo ayudar a los equipos quirúrgicos a reducir los daños al paciente, ¿en que año fue presentada oficialmente en Washington?"
+    answers:
+      - "2008"
+      - "2010"
+      - "2006"
+      - "2009"
+  - question: "De los siguientes fármacos intravenosos de uso frecuente en anestesia, ¿cuál pertenece a la categoría de relajante muscular no despolarizante?"
+    answers:
+      - "Rocuronio."
+      - "Succinilcolina."
+      - "Remifentanilo."
+      - "Ketamina."
+  - question: "De los siguientes casos, ¿en cuál está indicado el tratamiento con terapia de presión negativa (VAC)?"
+    answers:
+      - "Escara con tejido necrótico."
+      - "Osteomielitis no tratada."
+      - "Heridas en tejidos blandos de dífícíl cicatrización."
+      - "Fístulas en órganos o cavidades corporales."
+  - question: "Si un paciente presenta una úlcera por presión en sacro, que se caracteriza por pérdida cutánea de grosor parcial (abrasión, ampollas o cráter superficial) que afecta a la epidermis y posiblemente a la dermis, la clasificaremos como:"
+    answers:
+      - "Ulcera por presión Estadio I."
+      - "Ulcera por presión Estadio II."
+      - "Ulcera por presión Estadio III."
+      - "Ulcera por presión Estadio IV."
+  - question: "Cuando realizamos la escala de Glasgow en un paciente con traumatismo neurológico dentro de las primeras 48 horas después del accidente, ¿qué interpretaremos tiene el paciente si la puntuación de la misma es igual a 7?"
+    answers:
+      - "Un traumatismo neurológico menor."
+      - "Un traumatismo neurológico moderado."
+      - "Un traumatismo neurológico grave."
+      - "No tiene traumatismo neurológico."
+  - question: "En pacientes con diagnostico de Enfermería “Nutrición alterada por defecto relacionada con la merma de conciencia”, cuando el paciente es portador de una traqueostomía, ¿durante cuánto tiempo mínimo debemos mantener inflado el neumobalón una vez que ha terminado la nutrición enteral?;"
+    answers:
+      - "Treinta minutos."
+      - "Quince minutos."
+      - "Una hora."
+      - "Dos horas."
+  - question: "¿Cuál de las siguientes áreas de la persona no se corresponde con los patrones funcionales de salud descritos por Gordon?:"
+    answers:
+      - "Percepción-manejo de la salud."
+      - "Nutricional-metabólico."
+      - "Afrontamiento/ tolerancia al estrés."
+      - "Neurológico-sensorial."
+  - question: "Indique cuál de los siguientes fármacos no disminuye el efecto del tratamiento con heparina en pacientes diagnosticados de una embolia pulmonar:"
+    answers:
+      - "Digitálicos."
+      - "Ácido acetilsalicíiico."
+      - "Antihistamínicos."
+      - "Tetraciclinas."
+  - question: "Indique cuál es el criterio de electrocardiograma que no está presente en la taquicardia supraventricular paroxística:"
+    answers:
+      - "El ritmo es regular."
+      - "Con frecuencia no se identifican ondas P."
+      - "El ritmo es irregular."
+      - "El intervalo PR no se puede medir."
+  - question: "De acuerdo a la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud, los acuerdos de cooperación para llevar a cabo actuaciones sanitarias conjuntas en materia de protección de la salud, atención sanitaria, farmacia y productos sanitarios, recursos humanos y relaciones internacionales entre otras:"
+    answers:
+      - "Son competencia de la Alta Inspección."
+      - "Se formalizarán mediante convenios del Consejo Interterritorial."
+      - "Para su entrada en vigor requieren la aprobación en el Consejo de Participación social del Sistema Nacional de Salud."
+      - "Son ciertas todas las anteriores."
+  - question: "La evolución del autosondaje limpio intermitente, será evaluado por los profesionales de enfermería en pacientes:"
+    answers:
+      - "Con vesicostomía."
+      - "Con ureterostomía."
+      - "Con neovejiga."
+      - "Con bolsa de Kock."
+  - question: "De las siguientes respuestas, indique cuál no es cierta en relación a la investigación fenomenológica:"
+    answers:
+      - "Los fenomenólogos hermenéuticos no creen en el éxito de las investigaciones que dejan sus preconcepciones a un lado."
+      - "La fenomenología descriptiva tiende a usar más el término “sensibilización”, que la fenomenología hermenéutica."
+      - "El propósito de la fenomenología es adquirir nuevas percepciones que se puedan aplicar más allá de los casos estudiados."
+      - "El investigador fenomenología) utiliza descripciones e interpretaciones de las experiencias cotidianas humanas como fuente de datos."
+  - question: "Entre los objetivos inmediatos de tratamiento de una crisis hipertiroidea, se encuentra la disminución de la temperatura corporal y la frecuencia cardíaca y la prevención del colapso vascular, ¿cuál de los siguientes fármacos está contraindicado?"
+    answers:
+      - "Metimazol."
+      - "Propanolol."
+      - "Acido acetil-salicílico."
+      - "Hidrocortisona."
+  - question: "De los siguientes factores de riesgo de la osteoporosis, indique cuál disminuye la osteogénesis en el remodelado óseo:"
+    answers:
+      - "El sedentarismo."
+      - "La ingestión baja de calcio."
+      - "El tabaquismo."
+      - "La medicación con hormonas tiroideas."
+  - question: "De las siguientes respuestas, indique cuál no es cierta en pacientes con ostomías recientes:"
+    answers:
+      - "Las heces de la sigmoidostomía son de consistencia normal o formada y se puede regular la frecuencia de la descarga."
+      - "La ileostomía produce un drenaje blanco y maloliente."
+      - "El drenaje de la ileostomía contiene algunas enzimas digestivas que dañan la piel."
+      - "La colostomía ascendente produce drenaje líquido y contiene enzimas digestivas."
+  - question: "La New York Heart Association, clasifica la insuficiencia cardíaca como de Nivel II cuando:"
+    answers:
+      - "El paciente no refiere síntomas en reposo, pero el incremento de actividad física los genera."
+      - "El paciente tiene síntomas de insuficiencia cardíaca en reposo."
+      - "El paciente se siente cómodo en reposo, pero una actividad menor ordinaria provoca la aparición de síntomas."
+      - "Se considera al paciente asintomático."
+  - question: "La falta de asertividad puede ser debida a:"
+    answers:
+      - "Una actitud negativa por parte de los demás."
+      - "Un déficit de habilidades sociales."
+      - "Una actitud pasiva por parte de los demás."
+      - "Un déficit de cogniciones erróneas."
+  - question: "En una exploración otorrinolaringológica se realizan test vestibulares, uno de ellos es:"
+    answers:
+      - "Test de Nylen-Barany."
+      - "Test de Alten."
+      - "Test de Snellen."
+      - "Test de Weber."
+  - question: "De acuerdo a la Ley 55/2003, de 17 de diciembre, del Estatuto Marco del Personal Estatutario de los Servicios de Salud, “la incorrección con los superiores, compañeros, subordinados o usuarios”, tendrá la consideración de:"
+    answers:
+      - "Falta muy grave."
+      - "Falta grave."
+      - "Falta leve."
+      - "No tiene consideración de falta."
+  - question: "En la representación del pensamiento crítico, los mapas conceptuales donde las entradas y las salidas ilustran relaciones entre el concepto y sus atributos se denominan:"
+    answers:
+      - "Mapas jerárquicos."
+      - "Mapas relaciónales."
+      - "Mapas de diagrama de flujo."
+      - "Mapas de sistemas."
+  - question: "Respecto al acuerdo CONSORT entre editores de publicaciones, señale la respuesta correcta:"
+    answers:
+      - "Dicta las normas para publicar un ensayo clínico."
+      - "Dicta las normas para publicar una revisión sistemática."
+      - "Dicta las normas para los estudios observacionales de epidemiología."
+      - "Ninguna es correcta."
+  - question: "En el campo de la aplicación de la educación para la salud, ¿cuál no es un modelo de intervención?"
+    answers:
+      - "Modelo biomédico, asístencial o tradicional."
+      - "Modelo preventivo o crítico."
+      - "Modelo comunitario."
+      - "Modelo intercultural."
+  - question: "Señale de qué cuatro elementos depende la potencia de un estudio de investigación:"
+    answers:
+      - "La magnitud de la diferencia o asociación existente entre los grupos de interés, la variabilidad de la respuesta estudiada, el nivel de significación estadística y el tamaño muestral."
+      - "La magnitud de la diferencia o asociación existente entre los grupos de interés, el tipo de variables estudiadas, el nivel de significación estadística y el tamaño muestral."
+      - "La magnitud de la diferencia o asociación existente entre los grupos de interés, el tipo de variables estudiadas, el nivel de significación estadística y la selección de la muestra."
+      - "La magnitud de la diferencia o asociación existente entre los grupos de interés, la variabilidad de la respuesta estudiada, el contraste de la hipótesis y la selección de la muestra."
+  - question: "Cuando   un paciente del sexo masculino acude a consulta por presentar pequeñas úlceras genitales y la exploración física pone en evidencia que son lesiones múltiples, dolorosas a la palpación y que se acompañan de algunas vesículas y de adenopatías bilaterales también dolorosas, ¿qué tipo de infección de transmisión sexual indican estas manifestaciones?"
+    answers:
+      - "Chancroide."
+      - "Línfogranuloma venéreo."
+      - "Sífilis."
+      - "Herpes genital."
+  - question: "De las siguientes respuestas, señale cuál no es una intervención (NIC) específica para la enfermería de adicciones:"
+    answers:
+      - "Ayuda para dejar de fumar."
+      - "Prevención del consumo de sustancias nocivas."
+      - "Conocimiento. Control del consumo de sustancias."
+      - "Tratamiento por el consumo de sustancias nocivas. Sobredosis."
+  - question: "Señale cuál de las siguientes afirmaciones no es correcta:"
+    answers:
+      - "El valor biológico de una proteína hace referencia a su mayor o menor capacidad para satisfacer las necesidades en nitrógeno y aminoácidos del organismo que la ingiere."
+      - "En general, las proteínas de origen vegetal tienen un valor biológico más alto que las de origen animal."
+      - "La malnutrición proteica severa recibe el nombre de Kwashiorkor."
+      - "Un gramo de proteínas ingerido proporciona 4 Kcal."
+  - question: "Señale cuál de las siguientes no es una complicación metabólica de la nutrición parenteral:"
+    answers:
+      - "Hipoglucemia."
+      - "Embolia gaseosa."
+      - "Hipernatremia."
+      - "Hiperglucemia."
+  - question: "Si en un paciente intervenido quirúrgicamente utilizamos la clasificación de Aldrete modificada, para valorar si puede salir de la Unidad de Cuidados Posanestésicos (UCPA), ¿cuándo diremos que el paciente debe permanecer en la UCPA?"
+    answers:
+      - "Cuando la clasificación de Aldrete es de 9 puntos."
+      - "Cuando la clasificación de Aldrete es de 14 puntos."
+      - "Cuando la clasificación de Aldrete es de 5 puntos."
+      - "Cuando la clasificación de Aldrete tiene valores negativos."
+  - question: "En el cálculo del porcentaje de la superficie corporal quemada según las escala Lund-Browder, el tronco anterior en un adulto representa:"
+    answers:
+      - "El 18%"
+      - "El 13%"
+      - "El 9%"
+      - "El 6%"
+  - question: "Señale cuál de las siguientes intervenciones de Enfermería no es adecuada en el diagnostico de “patrón respiratorio ineficaz relacionado con disminución de la expansión pulmonar secundaria a la inactividad ó a la omisión de la respiración profunda”:"
+    answers:
+      - "Adiestrar al paciente en el funcionamiento del espirómetro de incentivación."
+      - "Administrar analgésicos para reducir el dolor."
+      - "Indicar la disminución de la ingesta de líquidos a 1 litro por día."
+      - "Adiestrar al paciente en la técnica de tos en cascada."
+  - question: "La educación dietética a un paciente diagnosticado de litiasis renal cálcica asociada a hiperoxaluria, se basa en:"
+    answers:
+      - "Limitar la ingesta de alimentos lácteos y restringir los líquidos."
+      - "Limitar el consumo de alimentos como espinacas, fresas, té, cacahuetes y salvado de trigo y aumentar la ingesta de líquidos."
+      - "Limitar la ingesta de alimentos ricos en purinas como el marisco, el espárrago y los hongos y restricción de líquidos."
+      - "Aumentar ingesta de alimentos lácteos y aumentar la ingesta de líquidos."

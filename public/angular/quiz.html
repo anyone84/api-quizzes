@@ -1,0 +1,21 @@
+<!DOCTYPE  html>
+<html ng-app="Quiz">
+   <head>
+      <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+      <script src="js/angular/angular.min.js" type="text/javascript" charset="utf-8"></script>
+      <script src="js/app.js" type="text/javascript" charset="utf-8"></script>
+   </head>
+   <body ng-controller="QuizController as quizCtrl">
+      <h1>{{Quiz.name}}</h1>
+      <p>{{Quiz.description}}</p>
+      <ul class="list-group" ng-repeat="questionçç in Quiz.questions ">
+         <li class="list-group-item">
+            <h3>[{{question.order}}] {{question.question_text}}</h3>
+            <ul ng-repeat="answer in question.answers ">
+               <li>[{{answer.order}}] {{answer.answer_text}} [[{{answer.correct_answer}}]]</li>
+            </ul>
+            <!--<button ng-show="quiz.canPurchase">Add to Cart</button>-->
+         </li>
+      </ul>
+   </body>
+</html>
