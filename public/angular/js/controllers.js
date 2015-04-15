@@ -26,9 +26,11 @@ opeQuizControllers.controller('QuizCtrl', ['$scope', '$routeParams', '$http',
 
     $scope.selectAnswer = function(questionOrder, answerOrder){
       $.each($(".qs"+questionOrder), function(index, val) {
-         $(val).css("background-color","");
+         $(val).removeClass('check');
+         $(val).removeClass('ok');
+         $(val).removeClass('ko');
       });      
-      $("#ans"+answerOrder+"q"+questionOrder).css("background-color","#cc66cc");
+      $("#ans"+answerOrder+"q"+questionOrder).addClass('check');
       console.log($scope.answers);
       $scope.answers[questionOrder] = answerOrder;
 
@@ -43,13 +45,14 @@ opeQuizControllers.controller('QuizCtrl', ['$scope', '$routeParams', '$http',
          var correctAnswer = $scope.solutions[question];
          if(selectedAnswer != undefined){
             if(correctAnswer == selectedAnswer){
-              $("#ans"+selectedAnswer+"q"+question).css("background-color","#006611");
+              $("#ans"+selectedAnswer+"q"+question).addClass('ok');
               $scope.numberOfCorrectAnswers++;
             }else{
-              $("#ans"+correctAnswer+"q"+question).css("background-color","#006611");
-              $("#ans"+selectedAnswer+"q"+question).css("background-color","#660011");
+              $("#ans"+correctAnswer+"q"+question).addClass('ok');
+              $("#ans"+selectedAnswer+"q"+question).addClass('ko');
             }
          }
+         $('#dialog').modal()
       });
       console.log($scope.numberOfCorrectAnswers);
 

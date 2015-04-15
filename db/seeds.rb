@@ -6,15 +6,14 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 Quiz.destroy_all
-=begin
-1.upto(2) do |idx| 
+1.upto(20) do |idx| 
    puts " --- Creating Quiz #{idx}"
    q = Quiz.create({
       name:          "Quiz #{idx}",
       description:   Faker::Lorem.paragraph,
-      quiz_date:     Date.today 
+      quiz_date:     Date.today - rand(100000).hours
    })
-
+   q.save
    1.upto(10) do |idxqs|
       puts " --- === Creating Question #{idxqs}"
 
@@ -26,14 +25,14 @@ Quiz.destroy_all
       correct = false
       blocker = true
 
+      answers = [true,false,false,false].shuffle
       1.upto(4) do |idxa|
-         correct = [false,true,false,false].sample if !correct
+         correct = answers[idxa-1]
          aw = Answer.create({
             order:            idxa,
             answer_text:      "Answer #{idx}.#{idxqs}.#{idxa}",
-            correct_answer:   correct && blocker
+            correct_answer:   correct
          }) 
-         blocker = !correct
          qs.answers << aw
       end
 
@@ -44,7 +43,6 @@ Quiz.destroy_all
    puts " --- CREATED!"
    puts " ======================== "
 end
-=end
 puts " --- Creating Quiz 'Examen OPE SERMAS 2014'"
 arr = YAML.load_file("db/examen.yml")
 correct_answers = arr["solved"]

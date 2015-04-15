@@ -21,7 +21,6 @@
       <div class="well well-sm">
          <h1>{{quiz.name}}</h1>
          <p>{{quiz.description}}</p>
-         <p><span ng-show="numberOfAnswers">Answered: {{numberOfAnswers}}</span><span ng-show="numberOfCorrectAnswers">/ Correct: {{numberOfCorrectAnswers}}</span></p>
       </div>
       <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
         <div class="panel panel-default" ng-repeat="question in quiz.questions ">
@@ -42,4 +41,17 @@
         </div>
       </div>
    </div>
+</div>
+<div class="modal fade" id="dialog" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Test result</h4>
+      </div>
+      <div class="modal-body">
+        <p>Answered: {{numberOfAnswers}} / Correct: {{numberOfCorrectAnswers}} <strong>{{(numberOfCorrectAnswers/numberOfAnswers)*100}}%</strong></p>
+      </div>
+    </div>
+  </div>
 </div>

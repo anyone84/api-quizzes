@@ -6,5 +6,5 @@ node :questions, :if => lambda { |t| !t.questions.blank? } do |quiz|
 end
 
 node :solutions, :if => lambda { |t| !t.questions.blank? } do |quiz|
-   quiz.questions.map{|q| q.correct_answer.order}
+   quiz.questions.map{|q| q.correct_answer.order rescue nil}
 end
